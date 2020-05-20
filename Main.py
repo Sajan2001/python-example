@@ -1,9 +1,6 @@
 def main(msg):
-<<<<<<< HEAD
     # Adding the second comment to this file.
-=======
-    # Print a message 
->>>>>>> refs/remotes/origin/master
+    # Print a message
     print(msg)
 
 
