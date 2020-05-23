@@ -1,5 +1,5 @@
 def main(msg):
-    # No longer need comments here
+    # No longer need comments here right now
     print(msg)
 
 
